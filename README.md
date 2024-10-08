@@ -4,8 +4,6 @@
 #### I also fly small airplanes out of a local airport, with plans to become a flight instructor in the near future!
 
 
-
-beep beep beep beep
 Some current projects that I have worked on include a personal website for myself and a virtual card game created as a final project in my Programming II class!
 <!--
 **chrisjm66/chrisjm66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
