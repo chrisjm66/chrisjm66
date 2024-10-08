@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hello! My name is Chris.
 
+#### I enjoy learning about computers and aviation, and have been working with websites for about a year and a half now. 
+#### I also study Computer Science at Brookdale Community College and fly small airplanes out of a local airport, with plans to become a flight instructor in the near future!
 <!--
 **chrisjm66/chrisjm66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
