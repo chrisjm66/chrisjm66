@@ -1,6 +1,6 @@
 ## Hello! My name is Chris.
 
-![js](./javascript)
+![js](./javascript.svg)
 #### I enjoy learning about computers and aviation, and have been working with websites for about a year and a half now. I study Computer Science at Brookdale Community College in Lincroft, NJ.
 #### I also fly small airplanes out of a local airport, with plans to become a flight instructor in the near future!
 
