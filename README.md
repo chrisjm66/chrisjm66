@@ -1,10 +1,4 @@
-## Hello! My name is Chris.
-
-#### I enjoy learning about computers and aviation, and have been working with websites for about a year and a half now. I study Computer Science at Brookdale Community College in Lincroft, NJ.
-#### I also fly small airplanes out of a local airport, with plans to become a flight instructor in the near future!
-
-
-Some current projects that I have worked on include a personal website for myself and a virtual card game created as a final project in my Programming II class!
+## Hello!
 <!--
 **chrisjm66/chrisjm66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
